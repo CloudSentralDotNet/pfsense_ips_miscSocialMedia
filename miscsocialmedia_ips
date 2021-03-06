@@ -1,10 +1,13 @@
 #
 # Current IPs(IPv4) of Various Social Media ( non Facebook / Instagram )
+# such as 9gag.com, snapchat
 # Pls raise an issue if a range needs to be added/edited/deleted
 #
 13.227.248.0/21
 52.84.228.0/23
+63.251.222.0/24
 74.114.154.0/24
+103.233.0.85/32
 104.16.96.0/20
 104.193.187.0/24
 151.101.0.0/22
